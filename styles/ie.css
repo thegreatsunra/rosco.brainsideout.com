@@ -1,0 +1,37 @@
+* html body {
+	text-align: center;
+	padding-bottom: 20px;
+	}
+	
+* html div#wrap {
+	text-align: left;
+	}
+
+* html div#title {
+	height: 8em;
+	}
+	
+* html div#m3 {
+	height: 15em;
+	}	
+	
+* html div#content {
+	margin-left: 6px;
+	height: 5em;
+	}
+	
+* html div#sidebar {
+	height: 10em;
+	}
+	
+* html div#f2 {
+	height: 5em;
+	}
+	
+* html div#nav ul {
+	height: 1%; /* fixes all sorts of horrible things in IE */
+	}
+	
+* html body#portfolio div#content dd.desc { /* dude, you are so busted... don't do this */
+	margin-top: -120px;
+	}

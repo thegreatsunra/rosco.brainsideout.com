@@ -1,0 +1,36 @@
+body {
+	font-family: helvetica, arial, sans-serif;
+	line-height: 1.2;
+}
+
+div#extra,
+div#nav,
+ul.splashPics,
+div#footerColOne,
+div#footerColTwo,
+div#footerColThree,
+.hide {
+	display: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+}
+div#title h2 {
+	font-size: 11pt;
+}
+div#title h1 {
+	font-size: 20pt;
+}
+
+p, ul, ol {
+	font-size: 11pt;
+}
+div#header {
+	font-size: 14pt;
+}
+
+a {
+	color: #666;
+	text-decoration: underline;
+}

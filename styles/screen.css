@@ -1,0 +1,11 @@
+/*
+Styles for Brainside Out, Rosco D. Disco Edition
+Launched May 1st, 2006
+Copyright (c) 2006 Dane Petersen and Brainside Out
+*/
+
+
+/* import and hide from ie5mac \*/
+@import url("rosco.css");
+@import url("ie.css");
+/* end import and hide */
